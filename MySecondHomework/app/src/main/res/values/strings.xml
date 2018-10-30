@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySecondHomework</string>
+    <string name="back">返回</string>
+    <string name="delete">删除</string>
+    <string name="add">添加</string>
+    <string name="title">记事本</string>
+</resources>

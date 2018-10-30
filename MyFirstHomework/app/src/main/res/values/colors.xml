@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#66CCFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorControl">#A6A6A6</color>
+    <color name="colorControlPressed">#DADADA</color>
+    <color name="colorNumber">#323232</color>
+    <color name="colorNumberPressed">#9B9B9B</color>
+    <color name="colorSymbol">#FF9611</color>
+    <color name="colorSymbolPressed">#FDC88D</color>
+    <color name="colorSpecialSymbol">#212121</color>
+    <color name="colorSpecialSymbolPressed">#4D4D4D</color>
+</resources>
